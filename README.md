@@ -7,11 +7,13 @@ A software engineer & a fitness enthusiast. I'm a full-stack developer leaning m
 I'm currently sophomore in [MIET](https://miet.ru) in Moscow.
 <samp/>
   
-  <samp>
+<br /> <br />
+<samp>
 I'm [Masood](https://github.com/masxxiii/). 
 A polyglot, an engineer & a chap. I'm currently a backend engineer, specializing in decentralized apps at [Crypton Studio](https://crypton.studio) in Russia.
 I study and learn all things technology and convert caffeine into code.
 </samp>
+<br />
   
 <br />
 
