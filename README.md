@@ -1,6 +1,6 @@
 <h2> Hi, I'm Lida! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="430">
+<img align='right' src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="330">
   
 <br /> <br />
 <samp>
