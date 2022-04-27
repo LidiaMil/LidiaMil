@@ -5,7 +5,7 @@
 <br /> <br />
 <samp>
 A software engineer & a fitness enthusiast. I'm a full-stack developer leaning more towards the backend.
-I'm currently sophomore in [MIET](https://miet.ru) in Moscow.
+I'm currently a sophomore in [MIET](https://miet.ru) in Moscow.
 </samp>
 <br /> <br />
 
