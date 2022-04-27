@@ -4,7 +4,8 @@
 <br />
 
 <samp> 
-A software engineer & a fitness enthusiast. I'm a full-stack developer leaning more towards the backend. [I'm an inline-style link](https://www.google.com) I'm currently sophomore in [MIET](https://miet.ru) in Moscow.
+A software engineer & a fitness enthusiast. I'm a full-stack developer leaning more towards the backend.
+  I'm currently sophomore in [MIET](https://miet.ru) in Moscow.
 </samp>
 <br />
 
