@@ -3,10 +3,10 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <br />
 
-<samp> 
+
 A software engineer & a fitness enthusiast. I'm a full-stack developer leaning more towards the backend.
-  I'm currently sophomore in [MIET](https://miet.ru) in Moscow.
-</samp>
+I'm currently sophomore in [MIET](https://miet.ru) in Moscow.
+
 <br />
 
 ## 📫 Reach me at:
