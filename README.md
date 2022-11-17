@@ -4,7 +4,7 @@
   
 <br /> <br />
 <samp>
-A software engineer & a fitness enthusiast. I'm a full-stack developer leaning more towards the backend.
+A software engineer & a fitness enthusiast. I'm a middle/middle+ full-stack developer leaning more towards the backend.
 I'm currently a sophomore in [MIET](https://miet.ru) in Moscow. I enjoy writing clean code.
 </samp>
 <br /> <br />
