@@ -5,7 +5,7 @@
 <br /> <br />
 <samp>
 A software engineer & a fitness enthusiast. I'm a middle/middle+ full-stack developer leaning more towards the backend.
-I'm currently a sophomore in [MIET](https://miet.ru) in Moscow. I enjoy writing clean code. I write code in TS/JS, I study C++ go
+I'm currently a sophomore in [MIET](https://miet.ru) in Moscow. I enjoy writing clean code. I write code in TS/JS, C++, I study go
 </samp>
 <br /> <br />
 
